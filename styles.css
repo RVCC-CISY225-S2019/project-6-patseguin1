@@ -1,0 +1,41 @@
+body {
+  font-family: 'Slabo 27px', sans-serif;
+  margin: 0;
+
+}
+
+img {
+	max-width: 100%;
+}
+
+button {
+    font-family: inherit;
+    font-size: 100%;
+    box-sizing: border-box;
+    width: 10em;
+}
+
+input {
+    font-family: inherit;
+    font-size: 100%;
+    box-sizing: border-box;
+    width: 10em;
+}
+
+select {
+    font-family: inherit;
+    font-size: 100%;
+    box-sizing: border-box;
+    width: 10em;
+}
+
+textarea {
+    font-family: inherit;
+    font-size: 100%;
+    box-sizing: border-box;
+    width: 10em;
+}
+
+legend {
+    overflow: hidden;
+}
